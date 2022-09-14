@@ -1,0 +1,13 @@
+*.idea
+*.pyc
+*.ipynb_checkpoints
+*__pycache__
+venv
+*.venv/
+my_python_env
+*.log*
+*.coverage
+*htmlcov
+
+# Develop
+*private_config*
