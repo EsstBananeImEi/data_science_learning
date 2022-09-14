@@ -8,6 +8,7 @@ my_python_env
 *.log*
 *.coverage
 *htmlcov
+.vscode
 
 # Develop
 *private_config*
